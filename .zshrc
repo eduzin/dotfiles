@@ -64,3 +64,9 @@ alias drfra='drush -y features-revert-all'
 alias drlu='drush l10n-update'
 alias drlur='drush l10n-update-refresh'
 alias dr='drush'
+
+# Adding Composer bin directory to PATH
+export PATH="$PATH:$HOME/.composer/vendor/bin"
+
+# Adding RVM to PATH
+export PATH="$PATH:$HOME/.rvm/bin"
