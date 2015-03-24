@@ -1,5 +1,12 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"autoIndent": true,
+	"color_scheme": "Packages/Obsidian Color Scheme/textmate/Obsidian.tmTheme",
+	"drawWhiteSpace": "none",
+	"font_size": 12,
+	"font_face": "Courier New",
+	"gutter": true,
+	"highlightLine": true,
+	"copyOnMouseSelect": false,
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
@@ -18,6 +25,7 @@
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
+	"wantVerticalScrollBar": false,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
 	"word_wrap": true
 }
